@@ -1,0 +1,6 @@
+{
+  "name": "LedgerPulse - B2B Accounting Reporting & Analytics",
+  "description": "High-performance, read-only B2B accounting reporting and financial analytics dashboard with multi-company and multi-year support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
